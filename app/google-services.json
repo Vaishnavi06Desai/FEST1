@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272499765796",
+    "firebase_url": "https://ieee-fest-2020.firebaseio.com",
+    "project_id": "ieee-fest-2020",
+    "storage_bucket": "ieee-fest-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272499765796:android:827dc6bb635ec8c8d4deb1",
+        "android_client_info": {
+          "package_name": "com.example.fest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272499765796-lnhm9pr7ep7q64p25rrbcr88ihs96qh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_r7C_kbPQ5g0u8FRopyt5RyXn2uD3YPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272499765796-lnhm9pr7ep7q64p25rrbcr88ihs96qh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
